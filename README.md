@@ -1,5 +1,6 @@
 # Car Make and Model classification example with YOLOv3 object detector
 
+Modificado por mi [Seven-commits](https://github.com/Seven-commits)
 
 Download complete Project and Weights:
 https://drive.google.com/file/d/1QSqDY6a6KXtD4Lael44qWh-Z8QVZqbbs/view?usp=sharing
